@@ -1,3 +1,6 @@
-body {
-  background-color: aqua;
+body.Homepage {
+  background-color: rgb(13, 17, 23);
+}
+p {
+  color: rgb(216, 202, 202);
 }
